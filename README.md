@@ -7,4 +7,4 @@ Geomatics Engineer | GIS & Remote Sensing Enthusiast
 📚 Currently pursuing a Graduate Certificate in GIS and Remote Sensing at the Centre of Geographic Sciences (COGS).
 🌐 Currently exploring geospatial programming and advanced geospatial applications.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biplapkc)](https://github.com/anuraghazra/github-readme-stats)
+![Biplap's GitHub stats](https://github-readme-stats.vercel.app/api?username=biplapkc&show_icons=true&theme=radical)
