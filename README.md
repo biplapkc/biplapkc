@@ -3,6 +3,8 @@
 Geomatics Engineer | GIS & Remote Sensing Enthusiast
 
 📍 Passionate about geospatial technologies and earth observation.
-🎓 BE in Geomatics Engineering from XXX University.
+🎓 BE in Geomatics Engineering from Tribhuvan University.
 📚 Currently pursuing a Graduate Certificate in GIS and Remote Sensing at the Centre of Geographic Sciences (COGS).
 🌐 Currently exploring geospatial programming and advanced geospatial applications.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biplapkc)](https://github.com/anuraghazra/github-readme-stats)
